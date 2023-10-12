@@ -352,7 +352,7 @@ I'm not 100% sure on this.
 [Reference](https://www.indeed.com/career-advice/career-development/job-order-costing-system)
 
 > Since lawyers and accountants work with different clients on unique accounts, many will use a job order costing system to track how much time and resources were used for each customer.
-
+ 
 #### Q42. Assigning indirect costs to specific jobs is completed by **\_**.
 
 - [ ] allocating to manufacturing overhead account
